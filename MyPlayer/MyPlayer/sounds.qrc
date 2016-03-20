@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/alert.wav</file>
+        <file>sounds/boot.wav</file>
+        <file>sounds/menu.wav</file>
+        <file>sounds/msg.wav</file>
+        <file>sounds/open.wav</file>
+        <file>sounds/system.wav</file>
+        <file>sounds/welcome.wav</file>
+        <file>sounds/press.wav</file>
+    </qresource>
+</RCC>
